@@ -3,7 +3,6 @@ body {
 }
 
 header {
-  position: sticky;
   top: 25px;
   padding-top: 25px;
   display: flex;
