@@ -12,6 +12,13 @@ header {
   align-items: center;
 }
 
+.ui-elements {
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+  align-items: center;
+}
+
 .scroll-top {
   display: block;
   position: fixed;
